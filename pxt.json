@@ -1,0 +1,29 @@
+{
+    "name": "Duck Ship Finit",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.39",
+        "tag": "v1.12.39",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/db40d39ef52b9d1c73318c363ee95253a3b5a3f5",
+        "target": "1.12.39",
+        "pxt": "8.5.51",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}
